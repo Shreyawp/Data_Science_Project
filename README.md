@@ -1,4 +1,5 @@
 # Data-Science-Project
+Hands-on Data Science using real-world dataset from public resources
 
 ### [Comparative Analysis of Machine Learning Models on Wine Quality Data](https://github.com/Shreyawp/Data-Science-Project/blob/main/Wine%20Quality.ipynb)
 - The Wine Quality dataset is a popular dataset sourced from the UCI Machine Learning Repository, containing physicochemical attributes of red and white wine samples. 
